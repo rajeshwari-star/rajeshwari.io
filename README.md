@@ -2,4 +2,4 @@
 fullstack developer
 
 
- [live]  (file:///C:/Users/rajra/OneDrive/Desktop/profileio/index.html)
+ [live]  (https://rajeshwari-star.github.io/rajeshwari.io/)
