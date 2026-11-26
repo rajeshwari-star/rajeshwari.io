@@ -1,5 +1,6 @@
 # rajeshwari.io
-fullstack developer
+ profilo project using HTMLS and CSS and github actions CI&CD pipeline
 
 
- [live]  (https://rajeshwari-star.github.io/rajeshwari.io/)
+ [live]  (file:///C:/Users/rajra/OneDrive/Desktop/profileio/index.html)
+
